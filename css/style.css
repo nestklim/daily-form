@@ -116,7 +116,7 @@ textarea {
 	margin: 0;
 	font-size: 13px;
 	padding: 13px 0 31px;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.017em;
 }
 .ba-daily__first-name{
 	float: left;
@@ -136,5 +136,5 @@ textarea {
 	font-size: 12px;
 	line-height: 1.67;
 	padding-top: 20px;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.018em;
 }
