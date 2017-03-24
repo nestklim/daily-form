@@ -48,12 +48,17 @@ button,
 	font-size: 18px;
 	font-weight: 700;
 	padding: 0;
+	position: relative;
 }
 input[type="submit"]:hover,
 input[type="button"]:hover,
 button:hover,
 .ba-button:hover{
-	background-color: #F34149;
+	background-color: #ff514f;
+}
+button:active{
+	top: 1px;
+	box-shadow: 0px 2px 0px 0px #bd1962;
 }
 
 input[type="text"],
